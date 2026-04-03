@@ -10,10 +10,10 @@ class CalTest {
         assertEquals(30, ret);
     }
 
-    @Test
-    void basicUnitTestFail() {
-        Cal cal = new Cal();
-        int ret = cal.getSum(10, 20);
-        assertEquals(1, ret);
-    }
+//    @Test
+//    void basicUnitTestFail() {
+//        Cal cal = new Cal();
+//        int ret = cal.getSum(10, 20);
+//        assertEquals(1, ret);
+//    }
 }
